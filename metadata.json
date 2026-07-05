@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Copy of Remix: LifeContinuityAI",
+  "description": "A secure family emergency \u0026 life-management platform featuring automated OCR insurance policy extraction, email analysis, nominee verification portals, and daily reminder engines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
